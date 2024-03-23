@@ -1,1 +1,1 @@
-https://rootext.github.io/krot/
+https://rootext.github.io/krot-demo/
